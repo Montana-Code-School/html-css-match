@@ -28,12 +28,23 @@ a:hover {
 }
 
 .mainSection {
+  padding: 50px;
+  background: lightskyblue;
+  height: 10000px;
+}
+
+.edBackground {
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  position: relative;
   background: url('ed.jpeg') no-repeat;
   background-size: cover;
-  height: 1000px;
-  padding: 50px;
-  padding-left: 150px;
-  position: relative;
+}
+
+.longText {
+  max-width: 500px;
+  margin: auto;
 }
 
 .checkbox {
@@ -41,13 +52,13 @@ a:hover {
 }
 
 .rightEye {
-  left: 540px;
-  top: 420px;
+  left: 230px;
+  top: 170px;
 }
 
 .leftEye {
-  left: 260px;
-  top: 450px;
+  left: 101px;
+  top: 186px;
 }
 
 .outer {
