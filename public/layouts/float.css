@@ -1,0 +1,33 @@
+.floats-header {
+  width: 100%;
+  height: 50px;
+}
+
+.floats-left {
+  width: 20%;
+  float: left;
+  height: 250px;
+}
+
+.floats-right {
+  float: left;
+  width: 80%;
+}
+
+.floats-inner-left {
+  float: left;
+  width: 50%;
+  height: 200px;
+}
+
+.floats-inner-right {
+  float: left;
+  width: 50%;
+  height: 200px;
+}
+
+.floats-footer {
+  clear: both;
+  width: 100%;
+  height: 50px;
+}

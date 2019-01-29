@@ -1,38 +1,19 @@
-.floats-header {
-  width: 100%;
-  height: 50px;
+.header {
   background-color: orange;
 }
 
-.floats-left {
+.left {
   background-color: #000;
-  height: 250px;
-  width: 20%;
-  float: left;
 }
 
-.floats-right {
-  float: left;
-  width: 80%;
-}
-
-.floats-inner-left {
+.inner-left {
   background-color: blue;
-  float: left;
-  width: 50%;
-  height: 200px;
 }
 
-.floats-inner-right {
+.inner-right {
   background-color: red;
-  float: left;
-  width: 50%;
-  height: 200px;
 }
 
-.floats-footer {
+.footer {
   background-color: green;
-  clear: both;
-  width: 100%;
-  height: 50px;
 }
