@@ -6,7 +6,7 @@ const port = process.env.PORT || 3001
 app.use('/', express.static(path.join(__dirname, 'public')));
 app.use('/absolute',express.static(path.join(__dirname, 'public/absolute')));
 app.use('/relative',express.static(path.join(__dirname, 'public/relative')));
-app.use('/float',express.static(path.join(__dirname, 'public/float')));
+app.use('/layouts',express.static(path.join(__dirname, 'public/layouts')));
 app.use('/absolute_fixed', express.static(path.join(__dirname, 'public/absoluteVsFixed')))
 
 app.listen(port, function(){
