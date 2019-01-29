@@ -1,19 +1,24 @@
 .header {
   background-color: orange;
+  height: 50px;
 }
 
 .left {
   background-color: #000;
+  height: 250px;
 }
 
 .inner-left {
   background-color: blue;
+  height: 200px;
 }
 
 .inner-right {
   background-color: red;
+  height: 200px;
 }
 
 .footer {
   background-color: green;
+  height: 50px;
 }
