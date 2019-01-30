@@ -1,0 +1,23 @@
+.flex-main {
+  display: flex
+}
+
+.flex-left {
+  flex: 1
+}
+
+.flex-right {
+  flex: 4
+}
+
+.flex-inner {
+  display: flex;
+}
+
+.flex-inner-left {
+  flex: 1;
+}
+
+.flex-inner-right {
+  flex: 1;
+}

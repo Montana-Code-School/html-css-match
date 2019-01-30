@@ -1,0 +1,28 @@
+.floats-header {
+  width: 100%;
+}
+
+.floats-left {
+  width: 20%;
+  float: left;
+}
+
+.floats-right {
+  float: left;
+  width: 80%;
+}
+
+.floats-inner-left {
+  float: left;
+  width: 50%;
+}
+
+.floats-inner-right {
+  float: left;
+  width: 50%;
+}
+
+.floats-footer {
+  clear: both;
+  width: 100%;
+}
